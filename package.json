@@ -1,5 +1,6 @@
 {
   "description": "React Navigation",
+  "version": "4.4.4",
   "private": true,
   "workspaces": {
     "packages": [
